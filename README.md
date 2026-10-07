@@ -46,7 +46,7 @@ Todos ficam na pasta [`dados/`](dados). São dados fictícios, gerados pelo scri
 
 | Etapa | O que você faz | Tempo |
 |---|---|---|
-| 1 | Enviar os arquivos para o Colab | 10 min |
+| 1 | Enviar os arquivos para o Colab (ou buscar do GitHub, no TODO 0 opcional) | 10 min |
 | 2 | Importar o `pandas` | 5 min |
 | 3 | Ler as três planilhas diárias | 15 min |
 | 4 | Conferir linhas e colunas | 15 min |
@@ -79,7 +79,7 @@ Todos ficam na pasta [`dados/`](dados). São dados fictícios, gerados pelo scri
 | Tabela com uma coluna só ao ler CSV ou TXT | Faltou informar o separador certo em `sep` |
 | `UndefinedVariableError` no `query()` | Variável do Python usada dentro do filtro sem o `@` na frente |
 
-O Colab apaga os arquivos enviados quando a sessão termina. Se você fechar e voltar depois, envie de novo ou use a célula alternativa do notebook, que busca os arquivos direto deste repositório.
+O Colab apaga os arquivos enviados quando a sessão termina. Se você fechar e voltar depois, envie de novo ou use a célula alternativa da etapa 1 (TODO 0), que busca os arquivos direto deste repositório depois que você completa a lista de nomes.
 
 ## Para o seu portfólio
 
