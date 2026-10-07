@@ -32,6 +32,14 @@ Primeira prática da trilha de Python: você recebe as planilhas de três dias d
 
 Se preferir ler no papel, o mesmo roteiro está em [`material/Material_Aluno_Colab_Dados.docx`](material/Material_Aluno_Colab_Dados.docx), com espaço para respostas.
 
+## Endereço da pasta de dados
+
+Se o upload não funcionar, a célula alternativa da etapa 1 (TODO 0) busca os arquivos direto daqui. Copie este endereço e cole na variável `origem`:
+
+```
+https://raw.githubusercontent.com/iasenai1111-ux/python-colab-manipulacao-dados/main/dados/
+```
+
 ## Arquivos da prática
 
 | Arquivo | Uso |
