@@ -1,0 +1,11 @@
+CODIGO|PRODUTO|DESCRICAO
+101|Gasolina comum|Combustível vendido por litro
+102|Gasolina aditivada|Combustível com aditivos de limpeza
+103|Etanol|Álcool hidratado, por litro
+104|Diesel S10|Diesel com baixo teor de enxofre
+105|Diesel S500|Diesel para veículos antigos
+106|Óleo de motor|Frasco de 1 litro
+107|Aditivo de radiador|Frasco de 1 litro, pronto para uso
+108|Fluido de freio|Frasco de 500 ml
+109|Palheta|Par de palhetas para para-brisa
+110|Lavagem simples|Lavagem externa do veículo
